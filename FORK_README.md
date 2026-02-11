@@ -1,6 +1,6 @@
-# Pinocchio Fork - Timson100x
+# Pinocchio Fork - pinocchio-Triton-One-grpc-
 
-This is a fork of the [Pinocchio](https://github.com/anza-xyz/pinocchio) library.
+This is a fork of the [Pinocchio](https://github.com/anza-xyz/pinocchio) library by Timson100x.
 
 ## About Pinocchio
 
